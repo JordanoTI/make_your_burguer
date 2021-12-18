@@ -16,10 +16,6 @@
             {
                 "id": 4,
                 "tipo": "Integral"
-            },
-            {
-                "id": 5,
-                "tipo": "Pão Mexicano"
             }
         ],
         "carnes": [
@@ -58,11 +54,11 @@
                 "tipo": "Tomate"
             },
             {
-                "id": 4,
+                "id": 5,
                 "tipo": "Cebola roxa"
             },
             {
-                "id": 4,
+                "id": 6,
                 "tipo": "Pepino"
             }
         ]
@@ -81,5 +77,30 @@
             "tipo": "Finalizado"
         }
     ],
-    "burgers": []
+    "burgers": [
+        {
+            "nome": "Teste",
+            "carne": "Maminha",
+            "pao": "Italiano Branco",
+            "opcionais": [
+                "Bacon",
+                "Pepino"
+            ],
+            "status": "Solicitado",
+            "id": 1
+        },
+        {
+            "nome": "Jotinha",
+            "carne": "Picanha",
+            "pao": "Parmesão e Orégano",
+            "opcionais": [
+                "Bacon",
+                "Cebola roxa",
+                "Cheddar",
+                "Tomate"
+            ],
+            "status": "Solicitado",
+            "id": 2
+        }
+    ]
 }
