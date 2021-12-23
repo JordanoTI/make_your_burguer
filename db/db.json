@@ -132,6 +132,19 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "Jordano Rodrigues da Silva",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
