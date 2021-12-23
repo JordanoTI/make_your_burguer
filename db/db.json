@@ -90,19 +90,6 @@
       "id": 1
     },
     {
-      "nome": "Jotinha",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
       "nome": "Teste",
       "carne": "Maminha",
       "pao": "Italiano Branco",
@@ -111,16 +98,6 @@
       ],
       "status": "Solicitado",
       "id": 3
-    },
-    {
-      "nome": "Jotinha",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 4
     },
     {
       "nome": "Teste",
