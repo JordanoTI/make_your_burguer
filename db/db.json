@@ -120,23 +120,8 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 6
-    },
-    {
-      "nome": "Che",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate",
-        "Pepino",
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 7
     }
   ]
 }
